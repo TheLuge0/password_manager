@@ -11,3 +11,5 @@ To install them :
 - install PyQt6 : "pip install PyQt6==6.6.1"
 - install cryptography : "pip install cryptography==42.0.5"
 
+Futhermore you need to "install" the image directory with the png inside. 
+
